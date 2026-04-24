@@ -144,7 +144,7 @@ city-event-aggregator/
 
 ---
 
-## 👥 Team
+## 👥 Team Member(SECTION-A)
 
-- **Role A (Architect):** [Your Name]
-- **Role B (Builder):** [Partner Name]
+- **Roll No-24:**ANKUSH SHARAN
+- **Roll No-43:**ANVAY Santosh Khobragade
