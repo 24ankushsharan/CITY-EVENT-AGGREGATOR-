@@ -146,5 +146,5 @@ city-event-aggregator/
 
 ## 👥 Team Member(SECTION-A)
 
-- **Roll No-24:**ANKUSH SHARAN
-- **Roll No-43:**ANVAY Santosh Khobragade
+Role A (Architect): Anvay Khobragade (43)
+Role B (Builder): Ankush Sharan (24)
