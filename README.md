@@ -146,5 +146,6 @@ city-event-aggregator/
 
 ## 👥 Team Member(SECTION-A)
 
--**Role A (Architect): **Anvay Khobragade (43)
--**Role B (Builder): **Ankush Sharan (24)
+**Role A (Architect): Anvay Khobragade (43)**
+
+**Role B (Builder): Ankush Sharan (24)**
